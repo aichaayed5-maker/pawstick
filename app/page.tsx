@@ -5,6 +5,9 @@ export default function Home() {
         Projet en construction…
       </h1>
       <h2 className="mt-4 text-2xl font-semibold text-blue-600">test</h2>
+      <h3 className="mt-4 text-center text-2xl font-medium text-green-600">
+        coucou
+      </h3>
     </main>
   );
 }
