@@ -8,6 +8,9 @@ export default function Home() {
       <h3 className="mt-4 text-center text-2xl font-medium text-green-600">
         coucou
       </h3>
+      <h3 className="mt-4 text-center text-2xl font-medium">
+        je veux rentrer à la maison
+      </h3>
     </main>
   );
 }
