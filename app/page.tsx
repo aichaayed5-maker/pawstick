@@ -11,6 +11,7 @@ export default function Home() {
       <h3 className="mt-4 text-center text-2xl font-medium">
         je veux rentrer à la maison
       </h3>
+      <h3 className="mt-2 text-xl font-semibold text-pink-600">alexandre</h3>
     </main>
   );
 }
